@@ -25,7 +25,6 @@ function Header() {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             MENU
           </Typography>
-          <Button color="inherit">Login</Button>
         </Toolbar>
       </AppBar>
     </Box>
