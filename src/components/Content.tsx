@@ -18,7 +18,7 @@ function Content() {
       age: 23,
     },
     {
-      name: "beril",
+      name: "asli",
       age: 25,
     },
   ];
